@@ -1,4 +1,4 @@
-### Evolução civilização
+# Evolução civilização
 
 Este repositório contém um exemplo de código para um jogo de civilização, onde os jogadores evoluem suas civilizações através das eras da história acumulando "pontos de metal". A quantidade de pontos de metal determina em qual era histórica a civilização está.
 
